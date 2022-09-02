@@ -24,6 +24,6 @@ done
 # start
 tor &
 
-/kinto -config /xray.json &
+/kinto -config /kinto.json &
 
 caddy run --config /etc/caddy/Caddyfile --adapter caddyfile
