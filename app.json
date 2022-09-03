@@ -21,7 +21,7 @@
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/lqz2002/kinto/main/etc/kinto.json"
+            "value": "https://raw.githubusercontent.com/lqz2002/kinto/main/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: ",
