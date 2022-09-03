@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://github.com/lqz2002/kinto/blob/main/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/lqz2002/kinto/main/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://github.com/lqz2002/kinto/blob/main/etc/kinto.json"
+            "value": "https://raw.githubusercontent.com/lqz2002/kinto/main/etc/kinto.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: ",
@@ -29,7 +29,7 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://github.com/lqz2002/kinto/blob/main/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/lqz2002/kinto/main/etc/StoreFiles"
         }
     },
     "website": "https://github.com/lqz202/kinto",
