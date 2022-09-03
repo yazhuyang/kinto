@@ -1,6 +1,6 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
+    "name": "kinto",
+    "description": "kinto on railway",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
